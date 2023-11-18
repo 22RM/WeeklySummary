@@ -64,5 +64,12 @@ https://www.bilibili.com/video/BV1JA411h7Gw/?spm_id_from=333.337.search-card.all
 ```c (换行) 这是一个代码块 (换行)```
 ```
 ## yolov5训练自己的数据集
-
+* 通过CSDN一些大佬发的博客学习yolov5的使用
+### 1.获取自己的数据集
+1. 通过浏览器查找所需图片，并下载到本地，统一存到images文件夹
+> eg:
+> 001.jpg
+> 002.jpg
+> 003.jpg
+2. 在images文件夹下
 
