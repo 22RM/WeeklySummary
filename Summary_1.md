@@ -7,12 +7,10 @@
 > Brief: 本周总结 
 
 ### markdown常用语句的学习
-
 * 通过b站的视频进行学习，网址如下
 ```c
 https://www.bilibili.com/video/BV1JA411h7Gw/?spm_id_from=333.337.search-card.all.click
 ```
-
 * 井号#代表标题，多少个#代表第几级标题
 * 大于号>代表引用
 * 星号*或者短横线-代表无序列表
