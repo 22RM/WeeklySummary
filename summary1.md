@@ -68,8 +68,35 @@ https://www.bilibili.com/video/BV1JA411h7Gw/?spm_id_from=333.337.search-card.all
 ### 1.获取自己的数据集
 1. 通过浏览器查找所需图片，并下载到本地，统一存到images文件夹
 > eg:
+> 
 > 001.jpg
+> 
 > 002.jpg
+> 
 > 003.jpg
-2. 在images文件夹下
+2. 在images文件夹下创建一个labels.txt,并编辑要识别的类名
+3. 打开命令行窗口，安装并打开打标签软件labelimg
+```c
+pip install labelimg //安装
+labelimg //打开
+```
+4. 创建一个labels文件夹内，将打的标签保存到该文件夹
+### 2.训练前的一些调参操作
+1. 把上述的images labels文件夹移动到yolov5同级目录下的datasets文件夹中
+2. 在coco128.yaml文件中修改path和classes
+3. 按需要修改train.py文件的parse_opt函数中的参数
+### 3.训练，启动！
+* 开始摸鱼
+* 等待训练完成
+### 4.使用自己训练的模型进行预测
+1. 在run/train/weight下找到best.pt
+2. 将best.pt复制到yolov5目录下
+3. 把要预测的图片放到data/images文件夹
+4. 打开detect.py 修改parse_opt函数，把weight改为best.pt source改为data/images
+```
+parser.add_argument('--weights', nargs='+', type=str, default=ROOT / 'best.pt', help='model path or triton URL')
+parser.add_argument('--source', type=str, default=ROOT / 'data/images', help='file/dir/URL/glob/screen/0(webcam)')
+```
+
+
 
