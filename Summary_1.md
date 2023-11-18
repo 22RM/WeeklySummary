@@ -12,9 +12,6 @@
 https://www.bilibili.com/video/BV1JA411h7Gw/?spm_id_from=333.337.search-card.all.click
 ```
 ### 1.标题
-#一级标题
-##二级标题
-###三级标题
 ####四级标题
 ```c
 #一级标题
