@@ -7,6 +7,8 @@
 > Brief: 本周总结 
 
 ## markdown常用语句的学习
+* 学习了最基本的几种用法
+1. 标题
 * 通过b站的视频进行学习，网址如下
 ```c
 https://www.bilibili.com/video/BV1JA411h7Gw/?spm_id_from=333.337.search-card.all.click
@@ -54,4 +56,5 @@ https://www.bilibili.com/video/BV1JA411h7Gw/?spm_id_from=333.337.search-card.all
 1.这是有序列表
 2.这是有序列表
 ```
+## yolov5 
 
