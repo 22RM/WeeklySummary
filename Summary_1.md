@@ -32,6 +32,6 @@ https://www.bilibili.com/video/BV1JA411h7Gw/?spm_id_from=333.337.search-card.all
 2. 这是有序列表
 ```c
 1.这是有序列表
-2. 这是有序列表
+2.这是有序列表
 ```
 
