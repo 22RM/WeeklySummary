@@ -7,8 +7,14 @@
 > Brief: 本周总结 
 
 ## markdown常用语句的学习
+* 为了更加高效地撰写学习总结报告，学习了markdown语法
 * 学习了最基本的几种用法
 1. 标题
+2. 引用
+3. 有序列表
+4. 无序列表
+5. 任务列表
+6. 代码块
 * 通过b站的视频进行学习，网址如下
 ```c
 https://www.bilibili.com/video/BV1JA411h7Gw/?spm_id_from=333.337.search-card.all.click
@@ -29,7 +35,14 @@ https://www.bilibili.com/video/BV1JA411h7Gw/?spm_id_from=333.337.search-card.all
 ```c
 > 引用长这样
 ```
-### 3.无序列表
+### 3.有序列表
+1. 这是有序列表
+2. 这是有序列表
+```c
+1. 这是有序列表
+2. 这是有序列表
+```
+### 4.无序列表
 无序列表有两种
 * 我是无须列表
 - 我也是无序列表
@@ -37,7 +50,7 @@ https://www.bilibili.com/video/BV1JA411h7Gw/?spm_id_from=333.337.search-card.all
 * 我是无须列表
 - 我也是无序列表
 ```
-### 4.任务列表
+### 5.任务列表
 - [ ] 这是一个任务列表
 ```c
 - [ ] 这是一个任务列表
@@ -46,15 +59,10 @@ https://www.bilibili.com/video/BV1JA411h7Gw/?spm_id_from=333.337.search-card.all
 ```c
 - [x] 给任务列表打个钩
 ```
+### 6.代码块
 ```c
 ```c (换行) 这是一个代码块 (换行)```
 ```
+## yolov5训练自己的数据集
 
-1. 这是有序列表
-2. 这是有序列表
-```c
-1.这是有序列表
-2.这是有序列表
-```
-## yolov5 
 
