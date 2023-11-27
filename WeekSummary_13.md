@@ -10,7 +10,7 @@
 
 ### 将大家标注的图片汇总后按照要求写出yaml文件，开始训练
 
-<img src="C:\Users\86134\Pictures\Screenshots\屏幕截图 2023-11-23 210731.png" alt="yaml" style="zoom:50%;" />l
+![yaml](https://cdn.jsdelivr.net/gh/cabbageB/images@main/img/202311271718262.png)
 
 不一定非要将数据集弄到yolo的目录下，只要路径正确就行
 
@@ -24,7 +24,7 @@
 
 ### 从9点训练到第二天早上快8点，检测结果如下
 
-![图片检测](D:\yolov5-master\yolov5\runs\detect\exp7\Cache_35bc052ef84649a3..jpg)
+![图片检测](https://cdn.jsdelivr.net/gh/cabbageB/images@main/img/202311271724686.jpg)
 
 可以看到置信度高达0.97，说明训练效果还可以。
 
@@ -41,33 +41,33 @@
 
 > 第一次检测,贴近摄像头
 
-![靠近摄像头](D:\文本文件\第一次测试.png)
+![靠近摄像头](https://cdn.jsdelivr.net/gh/cabbageB/images@main/img/202311271725472.png)
 
 如果是贴近摄像头进行检测，效果其实还可以。
 
 > 第二次检测，倾斜图片
 
-![倾斜图片](D:\文本文件\第二次测试_倾斜.png)
+![倾斜图片](https://cdn.jsdelivr.net/gh/cabbageB/images@main/img/202311271726706.png)
 
 这是倾斜一定角度下的检测结果，随着倾斜角度的增加，检测的置信度会逐渐下降。
 
 > 第三次检测，拉开一定距离
 
-![短距离](D:\文本文件\第三次测试_拉开.png)
+![短距离](https://cdn.jsdelivr.net/gh/cabbageB/images@main/img/202311271726277.png)
 
 可以看到拉开一定距离后，检测框的置信度很低，检测效果不好。
 
 > 第四次检测，拉开1m左右
 
-![拉开一米](D:\文本文件\拉开一米左右.png)
+![拉开一米](https://cdn.jsdelivr.net/gh/cabbageB/images@main/img/202311271727492.png)
 
-![拉开1m(2)](D:\文本文件\拉开一米（2）.png)
+![拉开1m(2)](https://cdn.jsdelivr.net/gh/cabbageB/images@main/img/202311271810451.png)
 
 可以看到，拉开一米正对摄像头时，检测效果很不稳定，甚至是无法识别到。
 
 > 强光环境下
 
-![强光检测](C:\Users\86134\Pictures\Screenshots\屏幕截图 2023-11-23 185333.png)
+![强光检测](https://cdn.jsdelivr.net/gh/cabbageB/images@main/img/202311271811516.png)
 
 可以看到，强光环境下，即使是非常清晰的图像也无法识别到。
 
@@ -109,9 +109,9 @@
 
 ```
 
-![原图](C:\Users\86134\Pictures\Screenshots\屏幕截图 2023-11-23 205144.png)![默认尺寸](C:\Users\86134\Pictures\Screenshots\屏幕截图 2023-11-23 205159.png)
+![原图](D:\git\WeeklySummary\Week13\images\dog1.png)![默认尺寸](D:\git\WeeklySummary\Week13\images\dog2.png)
 
-![矩形训练后的图片](C:\Users\86134\Pictures\Screenshots\屏幕截图 2023-11-23 205216.png)结果如图所示。
+![矩形训练后的图片](D:\git\WeeklySummary\Week13\images\dog3.png)结果如图所示。
 
 
 
