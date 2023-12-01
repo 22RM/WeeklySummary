@@ -18,15 +18,15 @@
 
 - 并发
 
-![image-20231128224422290](C:/Users/86134/AppData/Roaming/Typora/typora-user-images/image-20231128224422290.png)	
+![image-20231128224422290](https://cdn.jsdelivr.net/gh/cabbageB/images@main/images/202312012340195.png)	
 
 - 并行
 
-![并行](C:/Users/86134/AppData/Roaming/Typora/typora-user-images/image-20231128224701669.png)
+![并行](https://cdn.jsdelivr.net/gh/cabbageB/images@main/images/202312012341896.png)
 
 ## 进程的学习
 
-![image-20231128225304035](C:/Users/86134/AppData/Roaming/Typora/typora-user-images/image-20231128225304035.png)
+![进程](https://cdn.jsdelivr.net/gh/cabbageB/images@main/images/202312012341483.png)
 
 ### **多进程完成多任务**
 
