@@ -109,9 +109,9 @@
 
 ```
 
-![原图](D:\git\WeeklySummary\Week13\images\dog1.png)![默认尺寸](D:\git\WeeklySummary\Week13\images\dog2.png)
+![原图](https://cdn.jsdelivr.net/gh/cabbageB/images@main/images/202311282312031.png)![默认尺寸](https://cdn.jsdelivr.net/gh/cabbageB/images@main/images/202311282311232.png)
 
-![矩形训练后的图片](D:\git\WeeklySummary\Week13\images\dog3.png)结果如图所示。
+![矩形训练后的图片](https://cdn.jsdelivr.net/gh/cabbageB/images@main/images/202311282312750.png)结果如图所示。
 
 
 
